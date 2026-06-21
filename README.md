@@ -33,3 +33,13 @@ Use the run button in your IDE's editor gutter, or run tests using Gradle tasks:
 ---
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+---
+
+Find the KMP libraries you need on klibs.io
+Easily browse the KMP ecosystem and find all the proven libraries you need for storage, UI, networking and more.
+[Discover KMP libraries](https://klibs.io/?_gl=1*1hy8xeh*_gcl_au*ODQyNzIxNTI3LjE3ODE5NzE3MDQ.*FPAU*ODQyNzIxNTI3LjE3ODE5NzE3MDQ.*_ga*MTM0NTE3NTc2NS4xNzgxOTcxNzA0*_ga_9J976DJZ68*czE3ODIwMjcyNTgkbzQkZzEkdDE3ODIwMjgzMzMkajYwJGwwJGgw)
+
+Build and run KMP projects in your IDE
+Use the KMP plugin to build, run, and debug your project in IntelliJ IDEA or Android Studio
+[Get the plugin](https://plugins.jetbrains.com/plugin/14936-kotlin-multiplatform?_gl=1*1uv9nfj*_gcl_au*ODQyNzIxNTI3LjE3ODE5NzE3MDQ.*FPAU*ODQyNzIxNTI3LjE3ODE5NzE3MDQ.*_ga*MTM0NTE3NTc2NS4xNzgxOTcxNzA0*_ga_9J976DJZ68*czE3ODIwNDE1NDIkbzUkZzAkdDE3ODIwNDE1NDIkajYwJGwwJGgw)
