@@ -1,7 +1,7 @@
 # Gradle ルール
 
 > 適用対象: `**/*.gradle.kts`, `gradle/**`。
-> このファイルは CLAUDE.md から `@import` で常時ロードされる。
+> このファイルは `.claude/rules/` から常時自動ロードされる。
 
 ## Version Catalog
 - すべての依存バージョンは `gradle/libs.versions.toml` で管理する
