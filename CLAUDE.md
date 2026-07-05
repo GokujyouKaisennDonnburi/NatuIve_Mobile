@@ -1,4 +1,4 @@
-# NatuIve_Mobile
+# NatuEve_Mobile
 
 なちゅいべのモバイルアプリ。KMP（Kotlin Multiplatform）でロジックを共有し、
 UI は Android（Jetpack Compose）と iOS（SwiftUI）で個別実装する。
@@ -8,7 +8,7 @@ UI は Android（Jetpack Compose）と iOS（SwiftUI）で個別実装する。
 - Android: Jetpack Compose
 - iOS: SwiftUI
 - ネットワーク: Ktor Client
-- Project ID: `org.natuportal.natuive`
+- Project ID: `org.natuportal.natueve`
 
 ## Module Structure
 ```
